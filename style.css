@@ -1,0 +1,8 @@
+.svg-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.background-gradient {
+    background: linear-gradient(90deg, #3636c9, #e75971);
+}
